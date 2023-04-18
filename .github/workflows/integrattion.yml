@@ -30,8 +30,7 @@ jobs:
     - run: npm run build 
     
 
-   unit-test:
-
+  unit-test:
     runs-on: ubuntu-latest
 
     strategy:
